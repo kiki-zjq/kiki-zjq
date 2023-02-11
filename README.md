@@ -50,7 +50,7 @@ Full Stack         ████░░░░░░░░░░░░░░░░�
 | :------------------------------------ |  :-------: |
 | **CMU 15445: Database Systems**       | Done       |
 | **CMU 15619: Cloud Computing**        | 40 %       |
-| **Design Data-Insentive Application** | 70 %       |
+| **Design Data-Intensive Application** | 70 %       |
 | **Refactor personal homepage**        | 0 % *(pending)* |
 
 
