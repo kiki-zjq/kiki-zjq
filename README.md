@@ -46,16 +46,19 @@ Full Stack         ████░░░░░░░░░░░░░░░░�
 
 ## Todo List
 
-|                                       |  Status    |
-| :------------------------------------ |  :-------: |
-| **CMU 15445: Database Systems**       | Done       |
-| **CMU 15619: Cloud Computing**        | 40 %       |
-| **Design Data-Intensive Application** | 70 %       |
-| **Refactor personal homepage**        | 0 % *(pending)* |
+**Completed**  
+- [x] CMU 15445: Database Systems
+- [x] MyBatis
+- [x] Spring
 
 
+**In Process**  
+- [ ] CMU 15619: Cloud Computing
+- [ ] Design Data-Intensive Application
+- [ ] SpringBoot 
 
-
+**Pending**  
+- [ ] Refactor personal homepage
 
 
 ## Leetcode Stats
