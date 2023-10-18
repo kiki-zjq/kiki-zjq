@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - :sunny: I'm Jiangqi Zhu, aka KK.  
 - :mortar_board: MS Student @ Carnegie Mellon University.  
-- :computer: Actively seeking SDE internship opportunities for 2023 summer.  
+- :computer: Actively seeking SDE opportunities for 2024 NG.  
 - :running: 1 year full-time front-end software engineer experience.  
 - :full_moon: Now, I am a **full-stack software developer**!
 
